@@ -33,7 +33,7 @@
 
 ### **Minha distro**
 <div style = "display : inline_block">
-    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)" />
+    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 </div>
 
 <br>
