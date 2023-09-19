@@ -33,7 +33,7 @@
 
 ### **Minha distro**
 <div style = "display : inline_block">
-    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Linux Mint-28B463?style=for-the-badge&logo=Linux Mint&logoColor=white" />
+    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Linux Fedora-28B463?style=for-the-badge&logo=Linux Fedora&logoColor=white" />
 </div>
 
 <br>
