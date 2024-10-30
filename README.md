@@ -34,7 +34,7 @@
 
 ### **Minha distro**
 <div style = "display : inline_block">
-    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=green" />
+    <img align = "center" alt = "Html5" src ="https://img.shields.io/badge/Debian12-0078D6?style=for-the-badge&logo=debian&logoColor=green" />
 </div>
 
 <br>
