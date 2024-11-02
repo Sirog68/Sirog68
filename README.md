@@ -40,7 +40,7 @@
 
 ### **Minha distro atual**
 <div style = "display : inline_block">
-    <img align = "center" alt = "Debian12" src ="https://img.shields.io/badge/Debian12-05475C?style=for-the-badge&logo=debian&logoColor=A80030" />
+    <img align = "center" alt = "Windows 10" src ="https://img.shields.io/badge/Windows10-05475C?style=for-the-badge&logo=windows&logoColor=A80030" />
 </div>
 
 <br>
