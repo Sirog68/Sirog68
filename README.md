@@ -40,7 +40,7 @@
 
 ### **Minha distro atual**
 <div style = "display : inline_block">
-    <img align = "center" alt = "Windows 10" src ="https://img.shields.io/badge/Windows10-05475C?style=for-the-badge&logo=windows&logoColor=A80030" />
+    <img align = "center" alt = "Fedora 41" src ="https://img.shields.io/badge/Fedora 41-05475C?style=for-the-badge&logo=fedora&logoColor=2B4578" />
 </div>
 
 <br>
